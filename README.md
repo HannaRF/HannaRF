@@ -25,9 +25,5 @@
 </a>
 
 
-<div align="center">
-  <a href="https://HannaRF.github.io/HannaRF/">
-  <img  src="https://github.com/HannaRF/HannaRF/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![Snake animation](https://github.com/HannaRF/HannaRF/blob/output/github-contribution-grid-snake.svg)
 
