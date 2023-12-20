@@ -2,10 +2,11 @@
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/HannaRF/HannaRF/blob/main/path/to/your/image.gif">
 </a>
 
+<!--
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/HannaRF/HannaRF/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/HannaRF/HannaRF/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/HannaRF/HannaRF/network)
-
+-->
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
