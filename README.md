@@ -26,7 +26,8 @@
 
 
 <div align="center">
-  <a href="https://1999azzar.github.io/HannaRF/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://HannaRF.github.io/HannaRF/">
+  <img  src="https://github.com/HannaRF/HannaRF/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
