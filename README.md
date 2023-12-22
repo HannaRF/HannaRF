@@ -19,4 +19,7 @@
   <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@example.com" alt="your-email"/>
 </a>
 
-![Snake animation](https://github.com/HannaRF/HannaRF/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/HannaRF/HannaRF/blob/output/github-contribution-grid-snake.svg) -->
+
+![Snake animation](https://github.com/your-username/your-repository-name/blob/main/snake.svg)
+
