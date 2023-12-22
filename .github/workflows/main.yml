@@ -24,3 +24,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set Output for GitHub Pages URL
+        run: echo "GH_PAGES_URL=https://HannaRF.github.io/HannaRF/" >> $GITHUB_ENV
