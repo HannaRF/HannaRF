@@ -6,12 +6,6 @@
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&show_icons=true&theme=dark) [![Hanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaRF&count_private=true&show_icons=true&theme=dark)](https://github.com/HannaRF/github-readme-stats) 
 
-<!--
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/HannaRF/HannaRF/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/HannaRF/HannaRF/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/HannaRF/HannaRF/network)
--->
-
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
