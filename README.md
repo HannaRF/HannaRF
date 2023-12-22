@@ -21,5 +21,5 @@
 
 <!-- ![Snake animation](https://github.com/HannaRF/HannaRF/blob/output/github-contribution-grid-snake.svg) -->
 
-![Snake animation](https://github.com/your-username/your-repository-name/blob/main/snake.svg)
+![Snake animation](https://github.com/HannaRF/HannaRF/blob/main/snake.svg)
 
