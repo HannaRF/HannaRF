@@ -6,7 +6,7 @@
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&show_icons=true&theme=dark) [![Hanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaRF&count_private=true&show_icons=true&theme=dark)](https://github.com/HannaRF/github-readme-stats) 
 
-**Programming and Tools:**
+**Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
@@ -25,7 +25,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-%2317BEBB.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-**Contact and Social:**
+**Contact:**
 
 <a href="https://www.linkedin.com/in/hanna-rodrigues/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="hanna-rodrigues"/></a>    <a href="mailto:hanna.rodrigues.ferreira@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@example.com" alt="your-email"/>
