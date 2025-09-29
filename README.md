@@ -6,7 +6,7 @@
 
 ### Hi there! 👋
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&show_icons=true&theme=dark) [![Hanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaRF&count_private=true&show_icons=true&theme=dark)](https://github.com/HannaRF/github-readme-stats) 
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&show_icons=true&theme=dark) 
 
 **Programming Languages:**
 
