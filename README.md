@@ -7,9 +7,9 @@
 ### Hi there! 👋
 
 
-![Hanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanna-rodrigues&show_icons=true&theme=tokyonight&hide_border=true)
+![Hanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HannaRF&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-rodrigues&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&layout=compact&theme=tokyonight&hide_border=true)
 
 
 **Programming Languages:**
@@ -33,7 +33,7 @@
 
 **Contact:**
 
-<a href="https://www.linkedin.com/in/hanna-rodrigues/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="hanna-rodrigues"/></a>    <a href="mailto:hanna.rodrigues.ferreira@gmail.com" target="blank">
+<a href="https://www.linkedin.com/in/HannaRF/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="HannaRF"/></a>    <a href="mailto:hanna.rodrigues.ferreira@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@example.com" alt="your-email"/>
 </a>
 
