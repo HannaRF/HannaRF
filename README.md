@@ -1,12 +1,9 @@
-# 🖤 Hanna Rodrigues Ferreira
+# Hi there! 👋
 
 <!-- GIF escolhido (versão menor) -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl6Z3B4aDhmaTBwaHQ4NGdjYTB2cjMwN3B3czc3bjhueXk5YWU2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" width="350"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl6Z3B4aDhmaTBwaHQ4NGdjYTB2cjMwN3B3czc3bjhueXk5YWU2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" width="300"/>
 </p>
-
-### Hi there! 👋
-
 - 📚 **M.Sc. Applied Mathematics & Data Science — FGV EMAp (2025– )**  
   Focus: Deep Learning, Computer Vision, Remote Sensing.
 
