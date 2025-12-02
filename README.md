@@ -12,7 +12,7 @@
 
 - 🎓 **B.Sc. Applied Mathematics & B.Sc. Data Science & AI — FGV EMAp (2019–2024)**
 
-<div align="center">
+<!-- <div align="center">
 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=HannaRF&show_icons=true&theme=tokyonight&hide_border=true"
@@ -22,14 +22,11 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&layout=compact&theme=tokyonight&hide_border=true"
 />
 
-</div>
+</div> -->
 
 ## ⚙️ Skills
 
-### Programming
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-000000?style=flat&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat&logo=Mathworks&logoColor=white)
+### Programming:  ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-000000?style=flat&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat&logo=Mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white)
 
