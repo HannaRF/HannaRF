@@ -4,44 +4,44 @@
 </a>
 -->
 
+# Hanna Rodrigues Ferreira
 ### Hi there! 👋
 
+*  (books emoji) M.Sc. Applied Mathematics & Data Science — FGV EMAp (2025– )
+  * Focus: Deep Learning, Computer Vision, Remote Sensing.
+
+* 🎓🎓 B.Sc. Applied Mathematics & B.Sc. Data Science & AI — FGV EMAp (2019–2024)
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<!-- Stats -->
 <img 
   src="https://github-readme-stats.vercel.app/api?username=HannaRF&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
-<!-- Top Langs -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </div>
 
-**Programming Languages:**
+## ⚙️ Skills
 
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Programming
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-000000?style=flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat&logo=Mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white)
 
-**Documentation and Version Control:**
+### Tools & Documentation
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 📫 Contact
 
-**Contact:**
-
-<a href="https://www.linkedin.com/in/HannaRF/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="HannaRF"/></a>    <a href="mailto:hanna.rodrigues.ferreira@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@example.com" alt="your-email"/>
-</a>
-
-<!-- ![Snake animation](https://github.com/HannaRF/HannaRF/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/HannaRF/HannaRF/blob/main/snake.svg)
- -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanna-rodrigues)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:hanna.rodrigues.ferreira@gmail.com)
 
