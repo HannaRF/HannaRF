@@ -1,16 +1,32 @@
-<!--
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/HannaRF/HannaRF/blob/main/path/to/your/image.gif">
-</a>
--->
+# 🖤 Hanna Rodrigues Ferreira
 
-# Hanna Rodrigues Ferreira
+<!-- ========================= -->
+<!--          GIFs             -->
+<!-- ========================= -->
+
+<!-- Opção 1 — ondas -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600"/>
+</p>
+
+<!-- Opção 2 — neural network -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+</p>
+
+<!-- Opção 3 — lines aesthetic -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="600"/>
+</p>
+
+
 ### Hi there! 👋
 
-*  (books emoji) M.Sc. Applied Mathematics & Data Science — FGV EMAp (2025– )
-  * Focus: Deep Learning, Computer Vision, Remote Sensing.
+- 📚 **M.Sc. Applied Mathematics & Data Science — FGV EMAp (2025– )**  
+  Focus: Deep Learning, Computer Vision, Remote Sensing.
 
-* 🎓🎓 B.Sc. Applied Mathematics & B.Sc. Data Science & AI — FGV EMAp (2019–2024)
+- 🎓 **B.Sc. Applied Mathematics & B.Sc. Data Science & AI — FGV EMAp (2019–2024)**
+
 
 ## 📈 GitHub Stats
 
@@ -26,6 +42,7 @@
 
 </div>
 
+
 ## ⚙️ Skills
 
 ### Programming
@@ -39,6 +56,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
+
 
 ## 📫 Contact
 
