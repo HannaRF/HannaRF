@@ -6,7 +6,11 @@
 
 ### Hi there! 👋
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&show_icons=true&theme=dark) 
+
+![Hanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanna-rodrigues&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-rodrigues&layout=compact&theme=tokyonight&hide_border=true)
+
 
 **Programming Languages:**
 
