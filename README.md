@@ -16,7 +16,6 @@ My name is **Hanna Rodrigues Ferreira** 🖤
 
 <!-- ⚡ Fun fact: I love analyzing things visually — maps, embeddings, clusters, whatever.  -->
 📫 Contact : [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanna-rodrigues)   [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:hanna.rodrigues.ferreira@gmail.com)
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl6Z3B4aDhmaTBwaHQ4NGdjYTB2cjMwN3B3czc3bjhueXk5YWU2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/olr5oi9bxPVeV30Yye/giphy.gif" width="250"/>
 </p>
