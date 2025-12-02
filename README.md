@@ -7,10 +7,20 @@
 ### Hi there! 👋
 
 
-![Hanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HannaRF&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
+<!-- Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=HannaRF&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<!-- Top Langs -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaRF&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
 
 **Programming Languages:**
 
